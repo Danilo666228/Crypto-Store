@@ -1,0 +1,13 @@
+R:\Visual Studio 2022\С#\Crypto-Store\Crypto-Store\bin\Debug\Crypto-Store.exe.config
+R:\Visual Studio 2022\С#\Crypto-Store\Crypto-Store\bin\Debug\Crypto-Store.exe
+R:\Visual Studio 2022\С#\Crypto-Store\Crypto-Store\bin\Debug\Crypto-Store.pdb
+R:\Visual Studio 2022\С#\Crypto-Store\Crypto-Store\obj\Debug\Crypto-Store.csproj.AssemblyReference.cache
+R:\Visual Studio 2022\С#\Crypto-Store\Crypto-Store\obj\Debug\Crypto_Store.MainForm.resources
+R:\Visual Studio 2022\С#\Crypto-Store\Crypto-Store\obj\Debug\Crypto_Store.Main.resources
+R:\Visual Studio 2022\С#\Crypto-Store\Crypto-Store\obj\Debug\Crypto_Store.Properties.Resources.resources
+R:\Visual Studio 2022\С#\Crypto-Store\Crypto-Store\obj\Debug\Crypto-Store.csproj.GenerateResource.cache
+R:\Visual Studio 2022\С#\Crypto-Store\Crypto-Store\obj\Debug\Crypto-Store.csproj.CoreCompileInputs.cache
+R:\Visual Studio 2022\С#\Crypto-Store\Crypto-Store\obj\Debug\Crypto-Store.exe
+R:\Visual Studio 2022\С#\Crypto-Store\Crypto-Store\obj\Debug\Crypto-Store.pdb
+R:\Visual Studio 2022\С#\Crypto-Store\Crypto-Store\obj\Debug\Crypto_Store.Settings.resources
+R:\Visual Studio 2022\С#\Crypto-Store\Crypto-Store\obj\Debug\Crypto_Store.MiniProfile.resources
